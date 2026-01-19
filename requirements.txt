@@ -19,4 +19,5 @@ duckduckgo-search
 torch
 openai
 faiss-cpu
+docarray
 python-dotenv
