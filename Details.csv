@@ -1,0 +1,6 @@
+Ticket ID,Subject,Description,Priority,Status,Tags,Recommended Article
+1,Password Reset Issue,User unable to reset password via account settings.,High,Open,"password,login",Resetting your password
+2,Slack Integration Error,Slack notifications not appearing after enabling integration.,Medium,Open,"slack,integration",Slack integration setup
+3,Login Troubleshooting,User reports login failure after clearing cookies.,High,Closed,"login,cookies",Troubleshooting login issues
+4,Google Sheets Connection,API credentials not working for Sheets integration.,Medium,Open,"google sheets,api",Google Sheets integration
+5,General Inquiry,Customer asking about new features in the support dashboard.,Low,Open,"dashboard,features",N/A
